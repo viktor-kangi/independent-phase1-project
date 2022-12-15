@@ -12,3 +12,15 @@ body{
     background-color: #8076a3;
 }
 
+.avatar{
+    width: 100px;
+    aspect-ratio: 1;
+    overflow: 1;
+    border-radius: 50%;
+}
+
+.avatar img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
