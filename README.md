@@ -11,4 +11,10 @@ An app where you can search for GitHub users with their username and see their a
     
     npm install
     
-Open the application using a live server, or you can open it with your default browser.    
+Open the application using a live server, or you can open it with your default browser.
+
+## Author
+Victor Mbuthia
+
+## License
+ISC
