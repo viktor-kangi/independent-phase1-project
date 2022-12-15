@@ -17,6 +17,9 @@ An app where you can search for GitHub users with their username and see their a
     
 Open the application using a live server, or you can open it with your default browser.
 
+## Website url
+https://viktor-kangi.github.io/independent-phase1-project/
+
 ## Author
 Victor Mbuthia
 
