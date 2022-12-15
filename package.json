@@ -1,0 +1,23 @@
+{
+  "name": "independent-phase1-project",
+  "version": "1.0.0",
+  "description": "A GitHub profile search web app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor-kangi/independent-phase1-project.git"
+  },
+  "keywords": [
+    "js",
+    "html"
+  ],
+  "author": "Victor Mbuthia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor-kangi/independent-phase1-project/issues"
+  },
+  "homepage": "https://github.com/viktor-kangi/independent-phase1-project#readme"
+}
